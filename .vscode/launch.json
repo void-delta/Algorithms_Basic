@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Delta Geminorum/OneDrive/Documents/GitHub/Algorithms_Basic",
-      "program": "c:/Users/Delta Geminorum/OneDrive/Documents/GitHub/Algorithms_Basic/build/Debug/outDebug",
+      "cwd": "d:/SEM2/Algorithms_Basic",
+      "program": "d:/SEM2/Algorithms_Basic/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
